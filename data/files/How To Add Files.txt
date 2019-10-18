@@ -1,0 +1,41 @@
+TIPS AND TRICKS FROM LEE & OTHERS REGARDING ADDING FILES
+
+First click on the link for the files section at 
+the left of the page. 
+
+Then click on Recipes, and then on the folder for the 
+type of recipe you are adding. 
+
+At that point you add your recipe by clicking on 
+"create text file". A screen will pop up that has a place 
+for the file name, description, and then a larger box where 
+you can type in your recipe or whatever else you are adding. 
+
+This is where you have to do something a bit different. 
+The normal word wrap function in the files section doesn't 
+work properly and at the end of the line that you type in you 
+have to actually hit enter to go to the next line. The reason 
+it's tricky is that it appears to be working while you are doing 
+it, but, trust me, it doesn't work! If you forget to hit enter 
+(like a carriage return on a typewriter) then the next time 
+you go in and look at the file, it will be all on one LONG, LONG
+line that you have to scroll across to read. It's pretty hard to 
+read this way, and we found that it doesn't print out properly 
+this way. 
+
+If you are copying and pasting the recipe from another source, 
+you'll have to go in and manually put in the returns at the end 
+of the lines or the same thing often happens. Sometimes it doesn't 
+though when you are copying and pasting. You just have to 
+experiment with it to find what works for you.
+
+Another note: If you want to go back and change something after you 
+have entered the file, you have to make a change in the file name in 
+order for the change to "take". Usually I just added a period to the 
+end of the file name and that did it. I was really confused about it 
+at first. I'd make changes, go back and look and it hadn't changed 
+at all. It was most frustrating.
+
+NB: PLEASE end all filenames with .txt so that our webtv users 
+can open them too! (example: porkchops and sauerkraut.txt)
+
